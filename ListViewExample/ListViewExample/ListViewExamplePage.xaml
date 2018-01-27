@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ListViewExample" x:Class="ListViewExample.ListViewExamplePage">
+    <StackLayout
+        Padding="20">
+
+        <Label
+            BackgroundColor="Fuchsia"
+            Text="ListView" 
+            HorizontalTextAlignment="Center" />
+
+        <ListView x:Name="lvLista" BackgroundColor="Purple">
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+
+                        <StackLayout Orientation="Vertical">
+
+                            <Label Text="{Binding Title}" 
+                                BackgroundColor="Aqua" />
+
+                            <Label Text="{Binding Subtitle}"
+                                BackgroundColor="Green"/>
+
+                            <Label Text="{Binding FormattedDateTime}" 
+                                BackgroundColor="Red"/>
+
+                        </StackLayout>
+                        
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+        </ListView>
+        
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    Padding="20"
+    x:Class="MyFirstApp.MainPage">
+
+    <StackLayout Orientation="Vertical">
+
+        <Entry 
+            x:Name="eInput"
+            Placeholder="Escribe Algo:"/>
+
+        <Label x:Name="lbOutput"
+            Text="Hola" />
+
+        <Button x:Name="btnPress"
+            Text="Presiona!" />
+
+        <Button x:Name="btnGo"
+            Text="Ir a Second!" />
+        
+    </StackLayout>
+
+</ContentPage>

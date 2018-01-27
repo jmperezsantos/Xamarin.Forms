@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{05613542-B011-4AA4-AFE6-D7CB8423EE66}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstApp/SecondPage.xaml.cs">
+    <Files>
+      <File FileName="MyFirstApp/MainPage.xaml.cs" Line="34" Column="42" />
+      <File FileName="MyFirstApp/MainPage.xaml" Line="25" Column="1" />
+      <File FileName="MyFirstApp/SecondPage.xaml.cs" Line="22" Column="17" />
+      <File FileName="MyFirstApp/SecondPage.xaml" Line="18" Column="43" />
+      <File FileName="MyFirstApp/ThirdPage.xaml" Line="7" Column="36" />
+      <File FileName="MyFirstApp/App.xaml" Line="5" Column="1" />
+      <File FileName="MyFirstApp/App.xaml.cs" Line="21" Column="33" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="MyFirstApp/ThirdPage.xaml.cs" Line="14" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyFirstApp.Droid PreferredExecutionTarget="Android.AVD_for_4_65_720p_Galaxy_Nexus" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyFirstApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D49EE26F-ACA6-4B0C-9A7C-CD7D87431B4E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MyFirstApp.iOS>
+</Properties>

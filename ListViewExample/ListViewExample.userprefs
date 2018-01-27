@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{112A8997-7B26-4343-937B-4E87C4B8BB9C}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListViewExample.Droid PreferredExecutionTarget="Android.AVD_for_4_65_720p_Galaxy_Nexus" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewExample/ListViewExamplePage.xaml.cs">
+    <Files>
+      <File FileName="ListViewExample/ListViewExamplePage.xaml" Line="25" Column="68" />
+      <File FileName="ListViewExample/ListViewExamplePage.xaml.cs" Line="44" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ListViewExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D49EE26F-ACA6-4B0C-9A7C-CD7D87431B4E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ListViewExample.iOS>
+</Properties>
