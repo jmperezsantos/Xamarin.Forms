@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{11BD1315-3061-4C25-BF52-59CA63AE26D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkingExample/NetworkingExamplePage.xaml.cs">
+    <Files>
+      <File FileName="NetworkingExample/MoviesDAO.cs" Line="38" Column="1" />
+      <File FileName="NetworkingExample/NetworkingExamplePage.xaml.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jmperezsantos/Documents/Repositorios/Github/Xamarin/Xamarin.Forms/NetworkingExample/NetworkingExample/MoviesDAO.cs" relfile="NetworkingExample/MoviesDAO.cs" line="33" column="1" />
+      <Breakpoint file="/Users/jmperezsantos/Documents/Repositorios/Github/Xamarin/Xamarin.Forms/NetworkingExample/NetworkingExample/NetworkingExamplePage.xaml.cs" relfile="NetworkingExample/NetworkingExamplePage.xaml.cs" line="18" column="1" />
+      <Breakpoint file="/Users/jmperezsantos/Documents/Repositorios/Github/Xamarin/Xamarin.Forms/NetworkingExample/NetworkingExample/MoviesDAO.cs" relfile="NetworkingExample/MoviesDAO.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NetworkingExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D49EE26F-ACA6-4B0C-9A7C-CD7D87431B4E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.NetworkingExample.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
